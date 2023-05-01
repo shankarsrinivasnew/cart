@@ -1,2 +1,2 @@
 component : cart
-params: sample:prod.docdb.pass
+params: "sample:prod.docdb.pass"
