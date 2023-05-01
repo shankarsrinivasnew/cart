@@ -1,2 +1,2 @@
 component : cart
-params: "sample:prod.docdb.pass"
+params: "REDIS_HOST:prod.docdb.pass,CATALOGUE_HOST:catalogue,CATALOGUE_PORT:8080"
