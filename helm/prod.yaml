@@ -1,2 +1,2 @@
 component : cart
-params: "REDIS_HOST:prod.docdb.pass,CATALOGUE_HOST:catalogue,CATALOGUE_PORT:8080"
+params: "REDIS_HOST:prod.elasticache_endpoint_cart,CATALOGUE_HOST:catalogue,CATALOGUE_PORT:8080"
